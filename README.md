@@ -2,7 +2,7 @@
 Applying EDA in real-world scenarios.
 
 
-# NYC Yellow Taxi Trip Data Analysis – 2023
+# NYC Yellow Taxi Trip Data Analysis 
 
 ## Project Overview
 
